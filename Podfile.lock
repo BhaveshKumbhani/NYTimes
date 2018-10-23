@@ -1,0 +1,50 @@
+PODS:
+  - Cache (5.2.0)
+  - EVReflection (5.7.0):
+    - EVReflection/Core (= 5.7.0)
+  - EVReflection/Core (5.7.0)
+  - Imaginary (4.2.0):
+    - Cache (~> 5.0)
+  - Lightbox (2.3.0):
+    - Imaginary (~> 4.0)
+  - NVActivityIndicatorView (4.4.0):
+    - NVActivityIndicatorView/Presenter (= 4.4.0)
+  - NVActivityIndicatorView/Presenter (4.4.0)
+  - ReachabilitySwift (4.2.1)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - "UIAlertController+Blocks (0.9.2)"
+
+DEPENDENCIES:
+  - EVReflection
+  - Lightbox
+  - NVActivityIndicatorView
+  - ReachabilitySwift
+  - SDWebImage (~> 4.0)
+  - "UIAlertController+Blocks"
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Cache
+    - EVReflection
+    - Imaginary
+    - Lightbox
+    - NVActivityIndicatorView
+    - ReachabilitySwift
+    - SDWebImage
+    - "UIAlertController+Blocks"
+
+SPEC CHECKSUMS:
+  Cache: 807c5d86d01a177f06ede9865add3aea269bbfd4
+  EVReflection: c579d225cf0ec062d80f35f5af82acd770016a76
+  Imaginary: dae33d06dbc2ada22f98afef5eb45cc061311a2c
+  Lightbox: d317750e4132bfb871a5307cfe0a2c7d6a583c65
+  NVActivityIndicatorView: ec7440a57af2450319d3a4181cca7da6fc127064
+  ReachabilitySwift: 35720ffea59c1c76d15f885be77fd33e33985427
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  "UIAlertController+Blocks": 80e28b92523fb58aba4d1bccec013d5a0b0bddb2
+
+PODFILE CHECKSUM: a973034e7721a03c2def283880936e9a1baf027d
+
+COCOAPODS: 1.5.3
